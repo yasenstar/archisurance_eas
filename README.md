@@ -12,7 +12,7 @@ I've started practicing ArchiMate from 2020, and in recent two years tried Essen
 
 Although the meta-models are slightly different each other, I think the synergy can still be found from their common viewpoints on EA modeling respectively.
 
-| ![ArchiMate](img/archimate-logo.png) | ![Essential](img/the-essential-project-logo.svg) |
+| ![ArchiMate](img/archimate-logo.png) | ![Essential](img/essential-logo.png) |
 | --- | --- |
 
 This repository aims to follow ArchiSurance case study, and making step-by-step modeling the contents into Essential, to see how we can leveral Essential's nice views to present the ArchiSurance artefacts.
